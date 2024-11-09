@@ -73,17 +73,6 @@
 
 <hr>
 
-### ⚙️ GitHub Stats for Bloomcode Technologies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/orgs/bloomcodetech/public_members?username=bloomcodetech&count_private=true&show_icons=true&hide=prs&theme=radical" alt="Bloomcode GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/orgs/bloomcodetech/repos?username=bloomcodetech&count_private=true&theme=radical" alt="Bloomcode Repositories" />
-</p>
-
-<hr>
-
 ### ⚙️ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anujagrawal7328&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
